@@ -28,6 +28,18 @@ Movie Bash is a simple website designed to provide users with information about 
 2. Open the index.html file in your preferred web browser
 
 
+
+
+
+## Contribution
+If you would like to contribute to Movie Bash, follow these steps:
+
+1. Fork the repository.
+2. Create a new branch: git checkout -b feature/new-feature.
+3. Make your changes and commit them: git commit -m 'Add new      feature'.
+4. Push to the branch: git push origin feature/new-feature.
+Submit a pull request.
+
 ## Authors
 
 - [@Arjun_Bajare](https://github.com/ArjunB126)
