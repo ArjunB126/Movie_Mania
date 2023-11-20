@@ -21,6 +21,13 @@ Movie Bash is a simple website designed to provide users with information about 
 - **Responsive Design:** The website is designed to be accessible on various devices.
 
 
+
+## Installation
+
+1. Clone the repository
+2. Open the index.html file in your preferred web browser
+
+
 ## Authors
 
 - [@Arjun_Bajare](https://github.com/ArjunB126)
