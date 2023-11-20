@@ -27,8 +27,10 @@ Movie Bash is a simple website designed to provide users with information about 
 1. Clone the repository
 2. Open the index.html file in your preferred web browser
 
-
-
+## Usage
+1. Open the website in your web browser.
+2. Explore the list of movies on the home page.
+3. Click on a movie to view its basic storyline introduction.
 
 
 ## Contribution
