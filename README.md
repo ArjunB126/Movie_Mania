@@ -1,4 +1,4 @@
-# Movie Bash Website
+# Movie Mania Website
 
 Welcome to Movie Bash, a website showcasing a curated collection of movies with brief story introductions.
 
