@@ -13,7 +13,7 @@ Welcome to Movie Bash, a website showcasing a curated collection of movies with 
   ## Introduction
 
 Movie Bash is a simple website designed to provide users with information about various movies. The home page displays a list of movies along with a basic introduction to their storylines.
-🎬 Explore a world of cinematic wonders at Movie Mania! 🌟 Immerse yourself in the magic of movies - from the latest blockbusters to timeless classics. 🍿 Visit My website now for an unforgettable cinematic experience: https://arjunb126.github.io/Movie_Mania/ Grab your popcorn and let the movie magic begin! 🎥✨
+🎬 Explore a world of cinematic wonders at Movie Mania! 🌟 Immerse yourself in the magic of movies - from the latest blockbusters to timeless classics. 🍿 Visit My website now for an unforgettable cinematic experience: https://movieeemania.netlify.app/ Grab your popcorn and let the movie magic begin! 🎥✨
 
 ## Features
 
